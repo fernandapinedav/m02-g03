@@ -1,0 +1,320 @@
+
+body  {
+	margin: 0;
+	padding: 0;
+	background: #FFF8F0;
+} 
+.principal .img{
+	position: absolute;
+	top: 5%;
+	right: 8%;
+	width: 160px;
+	border-radius: 100%;
+	transform: skewY(5deg);
+	overflow: hidden;
+}
+.principal .img img {
+    width: 160px;
+    height: 180px;
+}
+
+.principal {
+	width: 100%;
+	height: 180PX;
+    background-color: #C8E087;
+    margin: 5% auto;
+    padding: 15px;
+    border: 0;
+    transform: skewY(-5deg);
+}
+
+.principal .content .p1{
+	color: white;
+	font-family: 'Michroma', sans-serif;
+	font-weight: border-style;
+	font-size: 35px ;
+	text-align: center;
+	font-weight: bolder;
+
+}
+.principal .content .p2{
+	color: white;
+	font-family: 'Michroma', sans-serif;
+	font-weight: border-style;
+	font-size: 25px ;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.primario {
+	width: 90%;
+	height: auto;
+    background-color: #646165;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.primario .tituloseccion1 {
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+}
+.primario .tituloinfo1 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.secundario {
+	width: 90%;
+	height: auto;
+    background-color: #82846D;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.secundario .tituloseccion2 {
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+
+}
+.secundario .tituloinfo2 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.secundario .info {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.secundario .info2 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.terciario {
+	width: 90%;
+	height: auto;
+    background-color: #95A472;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.terciario .tituloseccion3 {
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+
+}
+.terciario .tituloinfo3 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.terciario .tituloinfo31{
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.cuarto {
+	width: 90%;
+	height: auto;
+    background-color: #C8E087;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.cuarto .tituloseccion4{
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+
+}
+.cuarto .tituloinfo4{
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.cuarto .tituloinfo41 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.cuarto .tituloinfo42{
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.cuarto .tituloinfo43 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.cuarto .tituloinfo44 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.quinto {
+	width: 90%;
+	height: auto;
+    background-color: #646165;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.quinto .tituloseccion5{
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+}
+.quinto .tituloinfo5 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.quinto .tituloinfo51 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.quinto .tituloinfo52{
+	color: white;
+	font-family: 'space Grotesk', sans-serif;
+	font-size: large;
+}
+.quinto .tituloinfo53{
+	color: white;
+	font-family: 'space Grotesk', sans-serif;
+	font-size: large;
+}
+
+.sexto {
+	width: 90%;
+	height: auto;
+    background-color: #82846D;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.sexto .tituloseccion6{
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+
+}
+.sexto .tituloinfo6 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.sexto .tituloinfo61 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.sexto .tituloinfo62{
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.sexto .tituloinfo63 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.septimo {
+	width: 90%;
+	height: auto;
+    background-color: #95A472;
+    margin: 5% auto;
+    padding: 15px;
+    border: 10px;
+    border-radius: 20px;
+    transform: skewY(5deg);
+}
+
+.septimo .tituloseccion7{
+	color: white;
+	font-family: 'Barrio', cursive;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px white dashed;
+}
+.septimo .tituloinfo7 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.septimo .tituloinfo71{
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.septimo .tituloinfo72 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+.septimo .tituloinfo73 {
+	color: white;
+	font-family: 'Space Grotesk', sans-serif; 
+	font-size: large;
+}
+
+.piedepagina {
+	width: 100%;
+	height: 100PX;
+    background-color: #C8E087;
+    margin: 0;
+    padding: 15px;
+    border: 0;
+    transform: skewY(5deg);
+ 
+}
+a:link, a:visited {
+  background-color: white;
+  color: #95A472;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: large;
